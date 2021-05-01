@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "735414171778",
+    "project_id": "push-notifications-3-5f2bc",
+    "storage_bucket": "push-notifications-3-5f2bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735414171778:android:1b589bad5e3163a06e9c9b",
+        "android_client_info": {
+          "package_name": "com.atsign.at_chat_flutter_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735414171778-u1p20t5r2jh43h8ab0ana4htuiq9kht6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAp5iWw3bQX9ZPa3jzrbIFRxiW3wAEqKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735414171778-u1p20t5r2jh43h8ab0ana4htuiq9kht6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
